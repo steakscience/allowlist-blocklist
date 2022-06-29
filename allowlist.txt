@@ -2,3 +2,4 @@ images.dwell.com
 splitbee.io
 devimages-cdn.apple.com
 developer.apple.com
+podcasts.apple.com
